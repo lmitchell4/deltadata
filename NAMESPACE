@@ -2,7 +2,6 @@
 
 export(bridgeAccess)
 export(calcNearestCDEC)
-export(calcNthNearestCDEC)
 export(decimalDegrees)
 export(getEDI)
 export(getMetadataEdi)
